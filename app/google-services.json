@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866684886406",
+    "firebase_url": "https://tracking-demo-392e7-default-rtdb.firebaseio.com",
+    "project_id": "tracking-demo-392e7",
+    "storage_bucket": "tracking-demo-392e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866684886406:android:974a642027b450ea502007",
+        "android_client_info": {
+          "package_name": "com.technado.trackingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866684886406-fbh6cbbl5a7a6hr93958a88jttro9e8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technado.trackingdemo",
+            "certificate_hash": "4cb7ecb50fb4abdddb075f8f4b773f1f797e8b5b"
+          }
+        },
+        {
+          "client_id": "866684886406-3laa8mu2bct7uosco46hk5oqptpedvbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_kMkX7BntSf1QtDzyy2R7rlBC3VnVqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866684886406-3laa8mu2bct7uosco46hk5oqptpedvbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
